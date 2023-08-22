@@ -1,0 +1,10 @@
+torch
+transformers
+einops
+accelerate
+sentence_transformers
+langchain
+faiss-cpu
+streamlit
+
+

@@ -1,0 +1,54 @@
+﻿Cancel Items and Orders
+You can cancel items or orders by visiting the Your Orders section in Your Account.
+To cancel orders that are not shipped yet:
+1. Go to Your Orders
+2. Select the item you want to cancel and click Cancel items
+3. Provide reasons for cancellation (optional) and proceed
+To cancel orders that are already shipped:
+1. Go to Your Orders
+2. Select the Request cancellation option and proceed further
+3. The item(s) will be returned to us for a refund (if the payment is already made)
+In case you're still contacted for delivery, please refuse to accept it.
+Note:
+1. If your order is combined with other active orders from your account and is shipped as a single shipment (common tracking number), then cancelling one order/item would result in cancellation of all the other orders/items combined in the shipment.
+2. For orders shipped directly by the seller, your order will be cancelled by the seller. A refund will be processed to your original payment method by the seller, if the payment was already made.
+3. International customers cannot cancel an export order once it is shipped. However, they may refuse delivery of the product(s) and contact us to get a refund.
+
+
+
+
+General Returns Policy
+     
+1. Applicable products are returnable within the applicable return window if you’ve received them in a condition that is physically damaged, has missing parts or accessories, defective or different from their description on the product detail page on Amazon.in.
+        
+2. If you report an issue with your Smartphone, Tablet, Laptop, Television, Air Conditioner,  Refrigerator, Washing Machine, Microwave, we may facilitate scheduling a technician visit to your location. This visit is scheduled by placing an order with Amazon through Amazon.in Home Services. Subject to Amazon.in Home Services Terms and Conditions, a resolution will be provided based on the technician's evaluation report.
+        
+3. Return will be processed only if:             
+   * it is determined that the product was not damaged while in your possession;
+              
+   * the product is not different from what was shipped to you;
+              
+   * the product is returned in original condition (with brand’s/manufacturer's box, MRP  tag intact, user manual, warranty card and all the accessories therein).
+          
+        
+4. If you wish to return an electronic device that stores any personal information, please  ensure that you have removed all such personal information from the device prior to  returning. Amazon shall not be liable in any manner for any misuse or usage of such information.
+        
+5. Products may not be eligible for return in some cases, including cases of buyer's remorse such as incorrect model or color of product ordered or incorrect product ordered.
+        
+6. Products marked as "non-returnable" on the product detail page cannot be returned. However, in an unlikely event of damaged, defective or wrong item delivered to you, we will provide a full refund or replacement, as applicable. We may contact you to ascertain the damage or defect in the product prior to issuing refund/replacement. We reserve the right to pick up the product to ascertain the damage or defect in the            product prior to issuing refund/replacement.
+        
+7. No additional information is required to return an eligible order unless otherwise noted in the category specific policy. 
+        
+8. Products may be eligible for replacement only if the same seller has the exact same item in stock. 
+        
+9. If the replacement request is placed and the seller does not have the exact same product in stock, a refund would be issued to you. 
+        
+10. Products purchased by international customers are not eligible for returns. However, orders made by international customers are eligible for refunds and customers will have to contact customer service within 5 business days from delivery date or estimated delivery date to claim refunds.
+        
+11. To know about the Return window for Amazon Business orders, please visit here.
+        
+12.  In the event customers are found to misuse the return policy by excessively returning, or cancelling or not accepting the orders placed, Amazon reserves the right to warn and/or suspend and/or block and/or terminate such customer accounts, as necessary.
+              
+Note: If you've received a non-returnable product in a damaged/defective condition, you can contact us within 10 days from the delivery of the product.
+        
+Note: All product categories are non-returnable for International Customers for Export Orders.
